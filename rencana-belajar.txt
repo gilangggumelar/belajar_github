@@ -1,3 +1,6 @@
 Belajar HTML
-Belajar CSS Bootstrap
+Belajar CSS
+- Booststrap
+- Grid
+- Flex
 Belajar Javascript
