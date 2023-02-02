@@ -5,3 +5,4 @@ Resolusi
   * CSS
   * HTML
 - membuat project sederhana
+- belajar hosting web
