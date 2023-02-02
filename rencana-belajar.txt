@@ -4,5 +4,6 @@ Belajar CSS
 - Grid
 - Flex
 Belajar Javascript
+- Vue
 Belajar PHP Dasar
 Belajar PHP Framework
