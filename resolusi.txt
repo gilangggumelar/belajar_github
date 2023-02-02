@@ -1,0 +1,4 @@
+Resolusi
+- konsisten untuk belajar pemrograman web
+  * PHP
+- membuat project sederhana
