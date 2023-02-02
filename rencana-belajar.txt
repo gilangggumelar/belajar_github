@@ -4,6 +4,9 @@ Belajar CSS
 - Grid
 - Flex
 Belajar Javascript
-- Vue
-Belajar PHP Dasar
+- Framework Javascript
+  * Vue
+  * Angular
 Belajar PHP Framework
+- Laravel
+Belajar PHP Dasar
